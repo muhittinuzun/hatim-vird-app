@@ -48,7 +48,7 @@ Bu uygulama, Kur'an Hatmi, Cevşen Hatmi ve Virdler için dijital bir platform s
 
 1. **Repository'yi klonlayın:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/muhittinuzun/hatim-vird-app.git
 cd hatim-vird-app
 ```
 
